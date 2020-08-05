@@ -17,7 +17,10 @@ Los notebooks que forman parte del repositorio contienen las partes prácticas d
 Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
 [Martes 4 de agosto](https://drive.google.com/file/d/1xXvc_jrgUXyAgCbXTO26PSla8CApclxY/view?usp=sharing). Introducción a la materia.
- 
+
 ### Videos
 
 Videos de las clases virtuales
+
+__Martes 4 de agosto__: [video](https://drive.google.com/file/d/1NgpmD6cZlC9Nj4VNWVxyOiagCXz1j_re/view);
+[transcripción del chat](https://drive.google.com/file/d/1AZd_LivN1sdE1QXK9heAAUDvEyG0THRw/view)
