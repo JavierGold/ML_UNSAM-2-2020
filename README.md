@@ -22,9 +22,5 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
 Videos de las clases virtuales
 
-<<<<<<< HEAD
 __Martes 4 de agosto__: [video](https://drive.google.com/file/d/1NgpmD6cZlC9Nj4VNWVxyOiagCXz1j_re/view);
 [transcripción del chat](https://drive.google.com/file/d/1AZd_LivN1sdE1QXK9heAAUDvEyG0THRw/view)
-=======
-.
->>>>>>> 574a8a71a191bdcc447ab97562f91a1fdaf6ce85
