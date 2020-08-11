@@ -16,6 +16,7 @@ Los notebooks que forman parte del repositorio contienen las partes prácticas d
 
 Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
+[Martes 11 de agosto](https://drive.google.com/file/d/1vcbxPLoSx-BwM1UsM2hZ46JCeXDEiSAW/view?usp=sharing). Probabilidad. 
 [Martes 4 de agosto](https://drive.google.com/file/d/1xXvc_jrgUXyAgCbXTO26PSla8CApclxY/view?usp=sharing). Introducción a la materia.
 
 ### Videos
