@@ -1,12 +1,15 @@
-from math import sqrt
+from math import sqrt, log
 import numpy as np
+import matplotlib.pyplot as plt
+
 
 def test_fraccion(frac_func):
     np.random.seed(1234)
     for N in [10, 50, 100, 500]:
         assert np.allclose(frac_func(N, 1234),
-        _baseline_fraccion_ad(N, 1234)), N
+               _baseline_fraccion_ad(N, 1234)), N
     print(u"☺︎")
+
 
 def _baseline_fraccion_ad(n, seed=None):
 
@@ -27,8 +30,10 @@ def _baseline_fraccion_ad(n, seed=None):
 
 def test_samples():
 
-    # Crea un arreglo con los tamaños de las muestras que vamos a usar. Generamos valores desde 2^4 hasta 2^13.
-    # Vamos a espacirlo en log, para tener más resolución en los tamaños pequeños.
+    # Crea un arreglo con los tamaños de las muestras que vamos a usar.
+    # Generamos valores desde 2^4 hasta 2^13.
+    # Vamos a espacirlo en log, para tener más resolución en los tamaños
+    # pequeños.
     sizes = 2**np.arange(4, 14)
 
     results = np.empty([4, len(sizes), 2])
@@ -72,12 +77,14 @@ def plot_test_samples():
 
     return
 
+
 def plot_posterior_ex4():
     import time
     from IPython import display
     import numpy.random as rr
 
-    # El paquete en el que están implementadas muchas funciones de distribución es scipy.stats
+    # El paquete en el que están implementadas muchas funciones de distribución
+    # es scipy.stats
     import scipy.stats as st
 
     # Genera los puntos para graficar la curva.
@@ -94,7 +101,7 @@ def plot_posterior_ex4():
 
     # Inicializa los contadores de las caras y las cecas
     m = 0
-    l = 0
+    ll = 0
 
     # Define el tiempo de espera máximo y mínimo
     tmin = 10/N
@@ -102,11 +109,12 @@ def plot_posterior_ex4():
     tsleep = np.logspace(log(1), log(0.1), len(t))
 
     # Grafica el prior
-    plt.plot(0, st.beta(1,1).cdf(0.5), 'o')
+    plt.plot(0, st.beta(1, 1).cdf(0.5), 'o')
     plt.axhline(0.95, color='0.5', ls='--')
 
     ax = plt.gca()
-    ax.text(0.8, 0.8,'N=0; c=0; e=0', transform=ax.transAxes, va='center', ha='center')
+    ax.text(0.8, 0.8, 'N=0; c=0; e=0', transform=ax.transAxes, va='center',
+            ha='center')
 
     # sleep
     time.sleep(tmax)
@@ -120,9 +128,9 @@ def plot_posterior_ex4():
         if tt == 1:
             m += 1
         elif tt == 0:
-            l += 1
+            ll += 1
 
-        posterior = st.beta(1+m, 1+l)
+        posterior = st.beta(1+m, 1+ll)
         ax = plt.gca()
         ydata = list(ax.lines[0].get_ydata())
 
@@ -137,11 +145,31 @@ def plot_posterior_ex4():
 
         # Update scale
         ax.relim()
-        ax.autoscale_view(True,True,True)
+        ax.autoscale_view(True, True, True)
 
         # Update text
-        ax.texts[0].set_text('N={}; c={}; e={}'.format(str(i+1), str(m), str(l)))
+        ax.texts[0].set_text('N={}; c={}; e={}'.format(str(i+1), str(m),
+                             str(ll)))
 
         time.sleep(tsleep[i])
-        #plt.clf()
+        # plt.clf()
+    return
+
+
+def axis_on_center(ax):
+    # Move left y-axis and bottim x-axis to centre, passing through (0,0)
+    ax.spines['left'].set_position('center')
+    ax.spines['bottom'].set_position('center')
+
+    # Eliminate upper and right axes
+    ax.spines['right'].set_color('none')
+    ax.spines['top'].set_color('none')
+
+    # Show ticks in the left and lower axes only
+    ax.xaxis.set_ticks_position('bottom')
+    ax.yaxis.set_ticks_position('left')
+
+    # Corro los labels
+    ax.xaxis.set_label_position('top')
+    ax.yaxis.set_label_position('right')
     return
