@@ -16,6 +16,7 @@ Los notebooks que forman parte del repositorio contienen las partes prácticas d
 
 Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
+[Martes 18 de agosto](https://drive.google.com/file/d/1HlCfM2AZts8A_mVQGwNOs329WcGNNqLO/view?usp=sharing). Distribuciones Binomial y Beta.</br>
 [Jueves 13 de agosto](https://drive.google.com/file/d/1-dzjoESbe3Zx2tmAdrAX6WcGl2Hue0sh/view?usp=sharing). Funciones de masa de probabilidad. Funciones de densidad de probabilidad. Probabilidades bayesianas. Inferencia. Verosimilitud.</br>
 [Martes 11 de agosto](https://drive.google.com/file/d/1vcbxPLoSx-BwM1UsM2hZ46JCeXDEiSAW/view?usp=sharing). Probabilidad. </br>
 [Martes 4 de agosto](https://drive.google.com/file/d/1xXvc_jrgUXyAgCbXTO26PSla8CApclxY/view?usp=sharing). Introducción a la materia.
@@ -24,7 +25,7 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
 Videos de las clases virtuales
 
-__Jueves 13 de agosto__: [video](https://drive.google.com/file/d/1Uy4Y268G2Bm84s9vtKA3R8YOuKICZEty/view?usp=sharing);[transcripción del chat](https://drive.google.com/file/d/1VjrFvznWL8G0a6mygrKgj9NROFCMgeno/view?usp=sharing)
+__Jueves 13 de agosto__: [video](https://drive.google.com/file/d/1Uy4Y268G2Bm84s9vtKA3R8YOuKICZEty/view?usp=sharing);[transcripción del chat](https://drive.google.com/file/d/1VjrFvznWL8G0a6mygrKgj9NROFCMgeno/view?usp=sharing)</br>
 __Martes 11 de agosto__: [video](https://drive.google.com/file/d/13YULte6knU0TUDcm9t6aspVUV5I6MNhW/view?usp=sharing);
 [transcripción del chat](https://drive.google.com/file/d/1OOpHYc4scfQhmz0BAtK-y3r0HeBz1ksA/view?usp=sharing)</br>
 __Jueves 6 de agosto__: [video](https://drive.google.com/file/d/1dTzbWaotU1qYbSCyggflRDQgJ85zdNI5/view);
