@@ -25,9 +25,11 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
 Videos de las clases virtuales
 
-__Jueves 20 de agosto__: [video](https://drive.google.com/file/d/17DEpvA60lWGa3mevUzwctTutdiKfOCUh/view?usp=sharing);[transcripción del chat](https://drive.google.com/file/d/1jeWURqMs84PDFrXhNw32_9Vfe2M-ggUs/view?usp=sharing)
-__Martes 18 de agosto__: [video](https://drive.google.com/file/d/1KTVc6UhtN8-ax6rJ3E8ZcwaMKBlXY_Ap/view?usp=sharing);[transcripción del chat](https://drive.google.com/file/d/1xiG379fqCFMPLNfSRvcjydzAof6DZjhL/view?usp=sharing)</br>
-__Jueves 13 de agosto__: [video](https://drive.google.com/file/d/1Uy4Y268G2Bm84s9vtKA3R8YOuKICZEty/view?usp=sharing);[transcripción del chat](https://drive.google.com/file/d/1VjrFvznWL8G0a6mygrKgj9NROFCMgeno/view?usp=sharing)</br>
+__Jueves 20 de agosto__: [video](https://drive.google.com/file/d/17DEpvA60lWGa3mevUzwctTutdiKfOCUh/view?usp=sharing);
+[transcripción del chat](https://drive.google.com/file/d/1jeWURqMs84PDFrXhNw32_9Vfe2M-ggUs/view?usp=sharing)</br>
+__Martes 18 de agosto__: [video](https://drive.google.com/file/d/1KTVc6UhtN8-ax6rJ3E8ZcwaMKBlXY_Ap/view?usp=sharing);
+[transcripción del chat](https://drive.google.com/file/d/1xiG379fqCFMPLNfSRvcjydzAof6DZjhL/view?usp=sharing)</br>
+__Jueves 13 de agosto__: [video](https://drive.google.com/file/d/1Uy4Y268G2Bm84s9vtKA3R8YOuKICZEty/view?usp=sharing); [transcripción del chat](https://drive.google.com/file/d/1VjrFvznWL8G0a6mygrKgj9NROFCMgeno/view?usp=sharing)</br>
 __Martes 11 de agosto__: [video](https://drive.google.com/file/d/13YULte6knU0TUDcm9t6aspVUV5I6MNhW/view?usp=sharing);
 [transcripción del chat](https://drive.google.com/file/d/1OOpHYc4scfQhmz0BAtK-y3r0HeBz1ksA/view?usp=sharing)</br>
 __Jueves 6 de agosto__: [video](https://drive.google.com/file/d/1dTzbWaotU1qYbSCyggflRDQgJ85zdNI5/view);
