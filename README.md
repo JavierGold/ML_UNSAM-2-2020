@@ -16,7 +16,9 @@ Los notebooks que forman parte del repositorio contienen las partes prácticas d
 
 Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
-[Martes 18 de agosto](https://drive.google.com/file/d/1HlCfM2AZts8A_mVQGwNOs329WcGNNqLO/view?usp=sharing). Distribuciones Binomial y Beta.</br>
+[Jueves 17 de septiembre](https://drive.google.com/file/d/13rcgr0-wjcvpYvi6cF3MGPtdN-p2tGzx). Problemas de clasificación. Modelos lineales de clasificación. Tres posibilidades para clasificar.</br>
+[Martes 15 de septiembre](https://drive.google.com/file/d/1IwNkiJ9Bq9oRqB_adre9az-ZK3eeEiXV). Complemento de la clase. Notas sobre el Teorema Central del Límite y la comparación de modelos baysiana.</br>
+[Martes 18 de agosto](https://drive.google.com/file/d/1HlCfM2AZts8A_mVQGwNOs329WcGNNqLO). Distribuciones Binomial y Beta.</br>
 [Jueves 13 de agosto](https://drive.google.com/file/d/1-dzjoESbe3Zx2tmAdrAX6WcGl2Hue0sh/view?usp=sharing). Funciones de masa de probabilidad. Funciones de densidad de probabilidad. Probabilidades bayesianas. Inferencia. Verosimilitud.</br>
 [Martes 11 de agosto](https://drive.google.com/file/d/1vcbxPLoSx-BwM1UsM2hZ46JCeXDEiSAW/view?usp=sharing). Probabilidad. </br>
 [Martes 4 de agosto](https://drive.google.com/file/d/1xXvc_jrgUXyAgCbXTO26PSla8CApclxY/view?usp=sharing). Introducción a la materia.
@@ -25,7 +27,7 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
 Videos de las clases virtuales
 
-__Martes 16 de septiembre__: [video](https://drive.google.com/file/d/1LVXrbsqlYjJfYgykPSxNxuJ8RaPCyQU7/view?usp=sharing);
+__Martes 15 de septiembre__: [video](https://drive.google.com/file/d/1LVXrbsqlYjJfYgykPSxNxuJ8RaPCyQU7/view?usp=sharing);
 [transcripción del chat](https://drive.google.com/file/d/1qapJPicSHx-NizBtMf2bcs22OpWD8MxZ/view?usp=sharing)</br>
 __Jueves 10 de septiembre__: [video](https://drive.google.com/file/d/1zFppN9WXZoucPONzU6jJxAFulQ6m4R4X/view?usp=sharing);
 [transcripción del chat](https://drive.google.com/file/d/18XSzU4lGZGMkI5bLjZkq2V1Y7U-4BYkN/view?usp=sharing)</br>
