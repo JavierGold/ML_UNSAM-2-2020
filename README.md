@@ -16,6 +16,7 @@ Los notebooks que forman parte del repositorio contienen las partes prácticas d
 
 Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
+[Martes 22 de septiembre](https://drive.google.com/file/d/1YsvWTqSXAKigWGcCmYq1gFq62sCl7lLE). Discriminante lineal de Fischer. Perceptrón.</br>
 [Jueves 17 de septiembre](https://drive.google.com/file/d/13rcgr0-wjcvpYvi6cF3MGPtdN-p2tGzx). Problemas de clasificación. Modelos lineales de clasificación. Tres posibilidades para clasificar.</br>
 [Martes 15 de septiembre](https://drive.google.com/file/d/1IwNkiJ9Bq9oRqB_adre9az-ZK3eeEiXV). Complemento de la clase. Notas sobre el Teorema Central del Límite y la comparación de modelos baysiana.</br>
 [Martes 18 de agosto](https://drive.google.com/file/d/1HlCfM2AZts8A_mVQGwNOs329WcGNNqLO). Distribuciones Binomial y Beta.</br>
