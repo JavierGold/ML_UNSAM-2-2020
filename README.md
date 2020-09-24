@@ -28,7 +28,9 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
 Videos de las clases virtuales
 
-__Martes 21 de septiembre__: [video](https://drive.google.com/file/d/1Ku_6VXGh_TGdLJsFS7yMLvlTxTKnO5YV/view?usp=sharing);
+__Jueves 24 de septiembre__: [video](https://drive.google.com/file/d/1Gf_ZxVKGMZbF_zXkTMQvtSjX5H9HDvMU/view?usp=sharing);
+[transcripción del chat](https://drive.google.com/file/d/1jKfAmvrmCTjmMFazI7rHIQ5CeBsB5PGZ/view?usp=sharing)</br>
+__Martes 22 de septiembre__: [video](https://drive.google.com/file/d/1Ku_6VXGh_TGdLJsFS7yMLvlTxTKnO5YV/view?usp=sharing);
 [transcripción del chat](https://drive.google.com/file/d/1v_MkXTAF1fw9G_QViCXLtmXUJiiJ0qYv/view?usp=sharing)</br>
 __Jueves 17 de septiembre__: [video](https://drive.google.com/file/d/1au2FfiA9mgR7PhbcylHUpmMOSXqB5GxA/view?usp=sharing);
 [transcripción del chat](https://drive.google.com/file/d/17eV2viCjRpKqtnIKUky-k7xqjnQnAyGr/view?usp=sharing)</br>
