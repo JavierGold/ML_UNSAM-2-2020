@@ -16,6 +16,8 @@ Los notebooks que forman parte del repositorio contienen las partes prácticas d
 
 Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
+[Martes 6 de octubre](https://drive.google.com/file/d/1YpQQsdA2EoFU0S0kX5PHQ00F-eLBi8SL). Kernels. Modelos generativos: naive Bayes.</br>
+[Jueves 1 de octubre](https://drive.google.com/file/d/1MknL9EYNMHy00mfIXncnP6q1AtrVZ2rL). Clasificadores de margen máximo. Support Vector Machines.</br>
 [Martes 29 de septiembre](https://drive.google.com/file/d/1bu20m78CQnIB48IL7nGF_1U-2PTosOuP). Métodos discriminativos. Regresión logística.</br>
 [Martes 22 de septiembre](https://drive.google.com/file/d/1YsvWTqSXAKigWGcCmYq1gFq62sCl7lLE). Discriminante lineal de Fischer. Perceptrón.</br>
 [Jueves 17 de septiembre](https://drive.google.com/file/d/13rcgr0-wjcvpYvi6cF3MGPtdN-p2tGzx). Problemas de clasificación. Modelos lineales de clasificación. Tres posibilidades para clasificar.</br>
