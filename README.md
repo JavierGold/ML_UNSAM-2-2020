@@ -17,7 +17,7 @@ Los notebooks que forman parte del repositorio contienen las partes prácticas d
 Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
 [Jueves 15 de octubre](https://drive.google.com/file/d/1IWsRpbOh6snltmRuJbyorab8xGCLClAi/view?usp=sharing). Boosting y Stacking.</br>
-[Martes 13 de octubre](https://drive.google.com/file/d/1mOvitbOjQHX4RRqGLu-NEj1gnQMNCtHQ). Métodos de Ensemble. Voting. Pasting, bagging.
+[Martes 13 de octubre](https://drive.google.com/file/d/1mOvitbOjQHX4RRqGLu-NEj1gnQMNCtHQ). Métodos de Ensemble. Voting. Pasting, bagging.</br>
 [Martes 6 de octubre](https://drive.google.com/file/d/1YpQQsdA2EoFU0S0kX5PHQ00F-eLBi8SL). Kernels. Modelos generativos: naive Bayes.</br>
 [Jueves 1 de octubre](https://drive.google.com/file/d/1MknL9EYNMHy00mfIXncnP6q1AtrVZ2rL). Clasificadores de margen máximo. Support Vector Machines.</br>
 [Martes 29 de septiembre](https://drive.google.com/file/d/1bu20m78CQnIB48IL7nGF_1U-2PTosOuP). Métodos discriminativos. Regresión logística.</br>
