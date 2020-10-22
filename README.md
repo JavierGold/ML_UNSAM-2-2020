@@ -16,6 +16,8 @@ Los notebooks que forman parte del repositorio contienen las partes prácticas d
 
 Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
+[Jueves 22 de octubre](https://drive.google.com/file/d/1u5Ck6MlfLYut9WbI29aqQQGZ1AbvafrG). Redes Neuronales II. Entrenamiento de redes neuronales. Retropropagación.</br>
+[Martes 20 de octubre](https://drive.google.com/file/d/1nAbfqtPbstoSrSqGs1vA0m0Z0sXufmrr). Redes Neuronales I. Consideraciones generales, perceptrón multi capa, activaciones y funciones de activación.</br>
 [Jueves 15 de octubre](https://drive.google.com/file/d/1IWsRpbOh6snltmRuJbyorab8xGCLClAi/view?usp=sharing). Boosting y Stacking.</br>
 [Martes 13 de octubre](https://drive.google.com/file/d/1mOvitbOjQHX4RRqGLu-NEj1gnQMNCtHQ). Métodos de Ensemble. Voting. Pasting, bagging.</br>
 [Martes 6 de octubre](https://drive.google.com/file/d/1YpQQsdA2EoFU0S0kX5PHQ00F-eLBi8SL). Kernels. Modelos generativos: naive Bayes.</br>
@@ -71,7 +73,7 @@ __Jueves 20 de agosto__: [video](https://drive.google.com/file/d/17DEpvA60lWGa3m
 [transcripción del chat](https://drive.google.com/file/d/1jeWURqMs84PDFrXhNw32_9Vfe2M-ggUs/view?usp=sharing)</br>
 __Martes 18 de agosto__: [video](https://drive.google.com/file/d/1KTVc6UhtN8-ax6rJ3E8ZcwaMKBlXY_Ap/view?usp=sharing);
 [transcripción del chat](https://drive.google.com/file/d/1xiG379fqCFMPLNfSRvcjydzAof6DZjhL/view?usp=sharing)</br>
-__Jueves 13 de agosto__: [video](https://drive.google.com/file/d/1Uy4Y268G2Bm84s9vtKA3R8YOuKICZEty/view?usp=sharing); 
+__Jueves 13 de agosto__: [video](https://drive.google.com/file/d/1Uy4Y268G2Bm84s9vtKA3R8YOuKICZEty/view?usp=sharing);
 [transcripción del chat](https://drive.google.com/file/d/1VjrFvznWL8G0a6mygrKgj9NROFCMgeno/view?usp=sharing)</br>
 __Martes 11 de agosto__: [video](https://drive.google.com/file/d/13YULte6knU0TUDcm9t6aspVUV5I6MNhW/view?usp=sharing);
 [transcripción del chat](https://drive.google.com/file/d/1OOpHYc4scfQhmz0BAtK-y3r0HeBz1ksA/view?usp=sharing)</br>
