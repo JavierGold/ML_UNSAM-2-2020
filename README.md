@@ -16,7 +16,7 @@ Los notebooks que forman parte del repositorio contienen las partes prácticas d
 
 Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
-[Martes 10 de octubre](https://drive.google.com/file/d/1NrvHYnzNQRn9NJKCG4n1Nodny5yHetDb/view?usp=sharing). Redes Neuronales Recurrentes.</br>
+[Martes 10 de noviembre](https://drive.google.com/file/d/1NrvHYnzNQRn9NJKCG4n1Nodny5yHetDb/view?usp=sharing). Redes Neuronales Recurrentes.</br>
 [Jueves 22 de octubre](https://drive.google.com/file/d/1u5Ck6MlfLYut9WbI29aqQQGZ1AbvafrG). Redes Neuronales II. Entrenamiento de redes neuronales. Retropropagación.</br>
 [Martes 20 de octubre](https://drive.google.com/file/d/1nAbfqtPbstoSrSqGs1vA0m0Z0sXufmrr). Redes Neuronales I. Consideraciones generales, perceptrón multi capa, activaciones y funciones de activación.</br>
 [Jueves 15 de octubre](https://drive.google.com/file/d/1IWsRpbOh6snltmRuJbyorab8xGCLClAi/view?usp=sharing). Boosting y Stacking.</br>
