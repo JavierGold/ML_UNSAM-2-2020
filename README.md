@@ -36,6 +36,8 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
 Videos de las clases virtuales
 
+__Jueves 12 de noviembre__:[video](https://drive.google.com/file/d/1GwsHKuFT3MZPPIRCBfoq0zVTcl6h8sdE/view?usp=sharing);
+[transcripción del chat](https://drive.google.com/file/d/1CRMtrTzl_SIC6zwdtGK63Vkj-rsnBrB3/view?usp=sharing)</br>
 __Martes 10 de noviembre__:[video](https://drive.google.com/file/d/1sW3q2vFFCd8p3SPzFl2SASTbuzfob07M/view?usp=sharing);
 [transcripción del chat](https://drive.google.com/file/d/1foiT97s3Jgj4cw5KNB9KirRycx32uxxW/view?usp=sharing)</br>
 __Jueves 05 de noviembre__:[video](https://drive.google.com/file/d/1EjwP7738E8DIDjYugHbXMQbORWiLHxyj/view?usp=sharing);
